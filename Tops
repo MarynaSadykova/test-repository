@@ -1,0 +1,26 @@
+<Сlothes_store>
+    <Outwear>
+        <Blazer id = '1234' availability = 'available'>
+            <color>Beige</color>
+            <quantity>25</quantity>
+        </Blazer>
+        <Leather_jacket id = '4321' availability = 'available'>
+            <color>Black</color>
+            <quantity>34</quantity>
+        </Leather_jacket>
+        <Cardigan id = '5678' availability = 'available'>
+            <color>Light blue</color>
+            <quantity>18</quantity>
+        </Cardigan>
+        <Сoat id = '8765' availability = 'sold'>
+            <color>Beige</color>
+            <quantity />
+        </Сoat>
+    </Outwear>
+    <Tops>
+        <T-shirt id = '0981' availability = 'available'>
+            <color>White</color>
+            <quantity>20</quantity>
+        </T-shirt>
+    </Tops>
+</Сlothes_store>
