@@ -17,3 +17,10 @@
             <quantity />
         </Сoat>
     </Outwear>
+    <Tops>
+        <T-shirt id = '0981' availability = 'available'>
+            <color>White</color>
+            <quantity>20</quantity>
+        </T-shirt>
+    </Tops>
+</Сlothes_store>
